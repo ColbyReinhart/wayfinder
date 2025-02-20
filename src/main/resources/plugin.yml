@@ -1,0 +1,8 @@
+api: '1.21.4'
+api-version: '1.0.0'
+name: Wayfinder
+version: '1.0.0'
+main: com.colbyreinhart.wayfinder.Wayfinder
+description: Colby's epic paper plugin
+author: Colby Reinhart
+website: https://colbyreinhart.com
